@@ -1,4 +1,4 @@
-<img width="276" height="372" alt="image" src="https://github.com/user-attachments/assets/fd248bc5-41f8-482a-9143-91a83e35498d" /># cv_homework1_doc_scaner
+# cv_homework1_doc_scaner
 ### cv课作业_文档矫正
 #1   任务场景概述
 拍摄一张 A4 文稿照片，自动完成以下任务流：
