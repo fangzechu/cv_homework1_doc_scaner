@@ -13,9 +13,9 @@ sample_path = "./DS_scan_test.png"
 ### 4  运行示例
 python document_scanner_251008.py
 ### 5   结果说明
-输入：原始拍照（透视、旋转、阴影）
+#### 输入：原始拍照（透视、旋转、阴影）
 ![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/DS_scan_test.png)
-中间过程：Edges（Canny）、Corners（四角可视化）放缩
+#### 中间过程：Edges（Canny）、Corners（四角可视化）放缩
 ![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/output/DS_scan_test_edges.jpg)![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/output/DS_scan_test_corners.jpg)![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/output/DS_scan_test_scanned_bw.jpg)
-输出：结果
+#### 输出：结果
 ![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/output/DS_scan_test_scanned_color.jpg)
