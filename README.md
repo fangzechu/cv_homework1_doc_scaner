@@ -14,7 +14,7 @@ sample_path = "./DS_scan_test.png"
 python document_scanner_251008.py
 ### 5   结果说明
 输入：原始拍照（透视、旋转、阴影）
-![image]
+![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/DS_scan_test.png)
 中间过程：Edges（Canny）、Corners（四角可视化）
 输出：Scanned-Color（矫正彩色）、Scanned-BW（自适应阈值）
 
