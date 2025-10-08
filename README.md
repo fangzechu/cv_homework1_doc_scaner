@@ -19,3 +19,4 @@ python document_scanner_251008.py
 ![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/output/DS_scan_test_edges.jpg)![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/output/DS_scan_test_corners.jpg)![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/output/DS_scan_test_scanned_bw.jpg)
 #### 输出：结果
 ![image](https://github.com/fangzechu/cv_homework1_doc_scaner/blob/main/output/DS_scan_test_scanned_color.jpg)
+by:wzy
